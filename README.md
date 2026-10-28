@@ -18,19 +18,7 @@
 - 🧱 Main stack: **Node.js · TypeScript · React · Java/Spring Boot · PostgreSQL · Redis · Docker · AWS**
 - 🐧 Daily driver: Arch Linux + NeoVim
 
----
-
-## 🚀 Featured projects
-
-### [Naia](https://github.com/fabisiakeduardo/Naia) · WhatsApp/Telegram Campaign SaaS
-Full-stack campaign dispatch platform with **98%+ message deliverability**, webhook processing, retry logic and monitoring.
-
-`Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker` · **previously in production, now open source**
-
-### [Vianova](https://github.com/fabisiakeduardo/Vianova) · Identity & Billing Infrastructure
-Centralized auth layer with **OAuth2, JWT and RBAC**, Stripe billing integration and a versioned, documented REST API. **Previously in production, now open source**.
-
----
+--
 
 ## 💻 Stack
 
