@@ -18,7 +18,7 @@
 - 🧱 Main stack: **Node.js · TypeScript · React · Java/Spring Boot · PostgreSQL · Redis · Docker · AWS**
 - 🐧 Daily driver: Arch Linux + NeoVim
 
---
+---
 
 ## 💻 Stack
 
